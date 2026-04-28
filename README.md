@@ -13,7 +13,7 @@ Passionate about cybersecurity, threat detection, and network analysis<br> Hands
 
 📫 Connect with me:
 
-![LinkedIn](https://www.linkedin.com/in/mouli-dutta-7324b2272/)
+[LinkedIn](https://www.linkedin.com/in/mouli-dutta-7324b2272/)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
