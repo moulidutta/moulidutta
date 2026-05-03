@@ -15,7 +15,7 @@
 ## 🧠 About Me
 
 I'm a cybersecurity analyst focused on **network security, threat detection, and incident response**.
-I build tools that detect real attacks — not toy examples.
+I build tools that detect real attacks - not toy examples.
 
 - 🔍 I think like an attacker to defend like an analyst
 - 🛠️ Built a Python/Scapy IDS detecting SYN floods, ARP poisoning & brute force in a live lab
@@ -101,9 +101,9 @@ Open to **cybersecurity analyst roles, SOC positions, and freelance security wor
 
 | | |
 |---|---|
-| 📧 Email | [youremail@gmail.com](moulidutta2003@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/mouli-dutta-7324b2272/) |
-| 🎯 TryHackMe | [tryhackme.com/p/YOUR_USERNAME](https://tryhackme.com/p/moulidutta3002) |
+| 📧 Email | [moulidutta2003@gmail.com](moulidutta2003@gmail.com) |
+| 💼 LinkedIn | [LINKEDIN](https://www.linkedin.com/in/mouli-dutta-7324b2272/) |
+| 🎯 TryHackMe | [Tryhackme](https://tryhackme.com/p/moulidutta3002) |
 | 📍 Location | West Bengal, India 🇮🇳 |
 
 > *"The best defense is understanding the offense."*
