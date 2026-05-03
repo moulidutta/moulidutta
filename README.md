@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://tryhackme.com/p/moulidutta3002">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20Roles-2ea44f?style=for-the-badge"/>
+ 
 </p>
 
 ---
