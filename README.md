@@ -1,28 +1,118 @@
-## Hi!! I'm Mouli Dutta!
-# 💫 About Me:
-Passionate about cybersecurity, threat detection, and network analysis<br> Hands-on experience with Nmap, Metasploit, SIEM concepts, and log analysis<br>Built projects like a Library Book Lending System (Java OOP-base)<br>As Cybersecurity Analyst with hands-on experience in network security, log analysis, and vulnerability assessment. I enjoy breaking systems (ethically 😄) to understand how they work and how to secure them better.<br><br>🔐 I’m currently focused on:<br><br>Security Monitoring & SIEM fundamentals<br>Network Traffic Analysis (PCAP, Nmap, Wireshark)<br>Threat Detection & Incident Response<br>Building security-focused projects (like network vulnerabilities analysis and management, NIDS)<br><br>💻 Technical Skills:<br><br>Languages: Java, Python <br>Security Tools: Nmap, Metasploit, Wireshark, Hydra<br>Concepts: Networking, OS Security (Linux/Windows)<br>Other: OOP, File Handling, Collections, Git<br><br>📂 Projects:<br>
-<br>🛡️ Network Intrusion Detection System (IDS) with real time threat detection | Python, Scapy, Nmap, Wireshark,
-VirtualBox [repo](https://github.com/moulidutta/Network-Intrusion-Detection-System-NIDS-with-real-time-Threat-Detection)<br>
-<br>• Architected a Python/Scapy-based real-time IDS deployed on an isolated VirtualBox lab (Kali Linux + Metas
-<br>ploitable3), simulating a production-like SOC monitoring environment.
-<br>• Engineered 3 detection rules using sliding-window packet analysis: SYN flood/port scan (50 packets/5s threshold),
-ARP cache poisoning (MAC-IP mismatch detection), and SSH/FTP brute force (10 attempts/60s).
-<br>• Validated all rules by simulating attacks using Nmap, arpspoof, and Hydra; generated structured alert logs in CSV/JSON
-format for log analysis.
-<br>• Authored a professional vulnerability assessment report with 3 findings: CVSS v3.1 scores 7.5 (HIGH), 8.1 (HIGH),
-9.8 (CRITICAL); included CWE references, Wireshark packet captured evidence for network traffic analysis, and
-prioritized remediation recommendations.
-<br><br>🛡️ Network Scanning, Service Enumeration & Vulnerability Assessment |Nmap,Kali Linux, Metasploitable 3 [repo](https://github.com/moulidutta/Network_Vulnerability_Assesment)<br>
-<br>• Constructed a virtual penetration testing lab using Kali Linux and Metasploitable 3 to simulate real-world offensive
-and defensive security scenarios.
-<br>• Executed reconnaissance using Nmap for active host discovery, open port enumeration, service versioning to map attack surface.
-<br>• Demonstrated exploitatbility of identified vulnerabilities using Metasploit Framework(MSF) ; documented risk levels, exploit results and system response behaviour in formal assement report.
+<h1 align="center">Hey, I'm Mouli Dutta 👋</h1>
+<h3 align="center">Cybersecurity Analyst &nbsp;·&nbsp; IDS Builder &nbsp;·&nbsp; SOC Analyst in Progress</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mouli-dutta-7324b2272/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="moulidutta2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://tryhackme.com/p/moulidutta3002">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20Roles-2ea44f?style=for-the-badge"/>
+</p>
+
+---
+## 🧠 About Me
+
+I'm a cybersecurity analyst focused on **network security, threat detection, and incident response**.
+I build tools that detect real attacks — not toy examples.
+
+- 🔍 I think like an attacker to defend like an analyst
+- 🛠️ Built a Python/Scapy IDS detecting SYN floods, ARP poisoning & brute force in a live lab
+- 📡 Obsessed with PCAP analysis, SIEM fundamentals, and log forensics
+- 🎯 Open to **remote cybersecurity roles** — analyst, SOC, threat detection
 
 ---
 
-📫 Connect with me:
+## 🔐 Skills & Tools
 
-[LinkedIn](https://www.linkedin.com/in/mouli-dutta-7324b2272/)
+**Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Security Tools**
+
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-E85D75?style=flat-square&logoColor=white)
+![Scapy](https://img.shields.io/badge/Scapy-5A9E4F?style=flat-square&logoColor=white)
+
+**Environment**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_CLI-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+## 📂 Featured Projects
+
+### 🛡️ Network Intrusion Detection System (IDS)
+> Python · Scapy · Wireshark · VirtualBox · Kali Linux · Metasploitable3
+
+Real-time IDS deployed in an isolated lab simulating a production SOC environment.
+Detects SYN floods, ARP cache poisoning, and SSH/FTP brute-force with structured alert logging.
+
+- Engineered 3 detection rules using sliding-window packet analysis (50 pkts/5s, 10 attempts/60s)
+- Validated with Nmap, arpspoof, and Hydra attack simulations
+- Outputs structured CSV/JSON alert logs for log analysis workflows
+- Produced full vulnerability report — CVSS v3.1: **7.5 HIGH**, **8.1 HIGH**, **9.8 CRITICAL** with CWE references
+
+[View Repository →](https://github.com/moulidutta/Network-Intrusion-Detection-System-NIDS-with-real-time-Threat-Detection)
+
+---
+
+### 🔎 Network Scanning, Service Enumeration & Vulnerability Assessment
+> Nmap · Metasploit Framework · Kali Linux · Metasploitable3
+
+Hands-on penetration testing lab. Performed active host discovery, port enumeration,
+service versioning, and demonstrated exploitability via Metasploit.
+Documented findings in a formal assessment report with risk levels and remediation steps.
+
+[View Repository →](https://github.com/moulidutta/Network_Vulnerability_Assesment)
+
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moulidutta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=moulidutta&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moulidutta&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+## 📡 Currently Working On
+
+- [ ] Expanding IDS to include DNS anomaly detection
+- [ ] Building a log analysis dashboard (Python)
+- [ ] Studying for CompTIA Security+
+- [ ] Exploring SIEM platforms: Splunk, Elastic Stack
+
+---
+
+## 📬 Let's Connect
+
+Open to **cybersecurity analyst roles, SOC positions, and freelance security work**.
+
+| | |
+|---|---|
+| 📧 Email | [youremail@gmail.com](moulidutta2003@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/mouli-dutta-7324b2272/) |
+| 🎯 TryHackMe | [tryhackme.com/p/YOUR_USERNAME](https://tryhackme.com/p/moulidutta3002) |
+| 📍 Location | West Bengal, India 🇮🇳 |
+
+> *"The best defense is understanding the offense."*
+---
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moulidutta&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
