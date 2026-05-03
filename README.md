@@ -20,7 +20,7 @@ I build tools that detect real attacks - not toy examples.
 - 🔍 I think like an attacker to defend like an analyst
 - 🛠️ Built a Python/Scapy IDS detecting SYN floods, ARP poisoning & brute force in a live lab
 - 📡 Obsessed with PCAP analysis, SIEM fundamentals, and log forensics
-- 🎯 Open to **remote cybersecurity roles** — analyst, SOC, threat detection
+
 
 ---
 
