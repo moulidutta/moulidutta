@@ -1,5 +1,5 @@
 ## Hi!! I'm Mouli Dutta!
-# 💫  Little About Me:
+# 💫 About Me:
 Passionate about cybersecurity, threat detection, and network analysis<br> Hands-on experience with Nmap, Metasploit, SIEM concepts, and log analysis<br>Built projects like a Library Book Lending System (Java OOP-base)<br>As Cybersecurity Analyst with hands-on experience in network security, log analysis, and vulnerability assessment. I enjoy breaking systems (ethically 😄) to understand how they work and how to secure them better.<br><br>🔐 I’m currently focused on:<br><br>Security Monitoring & SIEM fundamentals<br>Network Traffic Analysis (PCAP, Nmap, Wireshark)<br>Threat Detection & Incident Response<br>Building security-focused projects (like network vulnerabilities analysis and management, NIDS)<br><br>💻 Technical Skills:<br><br>Languages: Java, Python <br>Security Tools: Nmap, Metasploit, Wireshark, Hydra<br>Concepts: Networking, OS Security (Linux/Windows)<br>Other: OOP, File Handling, Collections, Git<br><br>📂 Projects:<br>
 <br>🛡️ Network Intrusion Detection System (IDS) with real time threat detection | Python, Scapy, Nmap, Wireshark,
 VirtualBox [repo](https://github.com/moulidutta/Network-Intrusion-Detection-System-NIDS-with-real-time-Threat-Detection)<br>
