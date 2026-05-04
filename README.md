@@ -94,7 +94,6 @@ Documented findings in a formal assessment report with risk levels and remediati
 - [ ] Exploring SIEM platforms: Splunk, Elastic Stack
 
 ---
-
 ## 📬 Let's Connect
 
 Open to **cybersecurity analyst roles, SOC positions, and freelance security work**.
