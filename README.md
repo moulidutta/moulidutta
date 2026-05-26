@@ -48,6 +48,23 @@ I build tools that detect real attacks - not toy examples.
 
 ---
 ## 📂 Featured Projects
+---
+###🛡️ SIEM-Integrated Network Intrusion Detection System (NIDS) + SOC Platform
+> Python · Scapy · Splunk Enterprise · Wireshark · Nmap · Hydra · Kali Linux · VirtualBox
+
+A production-representative SOC platform built from scratch — custom Python/Scapy IDS feeding directly into Splunk Enterprise SIEM with a live SOC dashboard. Every alert goes through a full attack-to-dashboard pipeline, mirroring real enterprise security operations.
+
+- **6 detection rules across 4 protocols** — Port Scan (TCP), ARP Spoofing/MITM, SSH/FTP Brute Force, DNS Tunneling, ICMP Flood, SYN Flood/DoS
+- **Full SIEM pipeline** — IDS alerts auto-ingested into Splunk in real time; 100% ingestion rate across 21 controlled attack simulations
+- **Live SOC dashboard** — 7 panels including alert timeline, severity breakdown, radial gauge, and threat log table
+- **CVSS v3.1 coverage** — 9.8 CRITICAL (Brute Force), 8.6 HIGH (SYN Flood), 8.1 HIGH (ARP Spoofing), 7.5 HIGH × 3
+- **Protocol-aware engineering** — solved multi-interface sniffing, port scan vs SYN flood disambiguation, ICMP false positive elimination, and DNS deduplication under live attack conditions
+- Validated with Nmap, Hydra, hping3, arpspoof; forensic evidence via tshark + Wireshark pcap
+
+[View Repository →](https://github.com/moulidutta/SIEM-Integrated-Network-Intrusion-Detection-System-NIDS-)
+
+---
+
 
 ### 🛡️ Network Intrusion Detection System (IDS)
 > Python · Scapy · Wireshark · VirtualBox · Kali Linux · Metasploitable3
