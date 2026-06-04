@@ -90,16 +90,17 @@ Documented findings in a formal assessment report with risk levels and remediati
 
 [View Repository →](https://github.com/moulidutta/Network_Vulnerability_Assesment)
 
+
 ---
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moulidutta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=moulidutta&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=moulidutta&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=moulidutta&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moulidutta&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moulidutta&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </p>
 
 ---
