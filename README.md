@@ -120,7 +120,7 @@ Open to **cybersecurity analyst roles, SOC positions, and freelance security wor
 |---|---|
 | 📧 Email | [moulidutta2003@gmail.com](moulidutta2003@gmail.com) |
 | 💼 LinkedIn | [LINKEDIN](https://www.linkedin.com/in/mouli-dutta-7324b2272/) |
-| 🎯 TryHackMe | [Tryhackme](https://tryhackme.com/p/moulidutta3002) |
+| 🎯 TryHackMe | [Tryhackme](https://tryhackme.com/p/moulid32) |
 | 📍 Location | West Bengal, India 🇮🇳 |
 
 > *"The best defense is understanding the offense."*
